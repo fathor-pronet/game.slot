@@ -1,0 +1,2 @@
+# game.slot
+Koins/hack
